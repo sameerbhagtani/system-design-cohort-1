@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # ☕ ChaiCode System Design Cohort 1
 
 ### _The Ultimate Learning Archive & Proof of Work_
