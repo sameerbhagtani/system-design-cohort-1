@@ -1,4 +1,4 @@
-# ✍️ Week 00: Blog Posts
+# ✍️ Class 00: Blog Posts
 
 _Work in Progress..._
 
