@@ -8,15 +8,15 @@ This repository is the central "Source of Truth" for my journey through the Chai
 
 ## 🗺️ Learning Roadmap
 
-| Class  |  Date  |                 Topic                 |                                        📝 Summary Notes                                        |          📚 Assignments           |          ✍️ Blog Posts           |
-| :----: | :----: | :-----------------------------------: | :--------------------------------------------------------------------------------------------: | :-------------------------------: | :------------------------------: |
-| **00** | 23 Feb |       Application Layer Scaling       |  [View](https://www.notion.so/sameerbhagtani/Class-1-23-Feb-3188385da6f88006bf53ce07be07d137)  |                 -                 | [View](./blog-posts/class-00.md) |
-| **01** | 25 Feb |          Data Layer Scaling           |  [View](https://www.notion.so/sameerbhagtani/Class-2-25-Feb-3188385da6f880bdb640e84d642734c6)  |                 -                 |                -                 |
-| **02** | 02 Mar | Monolith & Microservices Architecture |  [View](https://www.notion.so/sameerbhagtani/Class-3-02-Mar-3188385da6f880d19ddfd2671845d655)  |                 -                 |                -                 |
-| **03** | 09 Mar |          Async. Architecture          | [View](https://www.notion.so/sameerbhagtani/Class-4-9th-Mar-3268385da6f880a499e5d4cd76cd8252)  | [View](./assignments/class-04.md) |                -                 |
-| **04** | 11 Mar |     Async. Architecture Continued     | [View](https://www.notion.so/sameerbhagtani/Class-5-11th-Mar-3268385da6f880849fe8c98fa6573783) |                 -                 | [View](./blog-posts/class-04.md) |
-| **05** | 16 Mar |         CQRS & Event Sourcing         | [View](https://www.notion.so/sameerbhagtani/Class-6-16th-Mar-3268385da6f880b6870bf02c753deb0d) |                 -                 |                -                 |
-| **06** | 18 Mar |                  ...                  | [View](https://www.notion.so/sameerbhagtani/Class-7-18th-Mar-3268385da6f8804cb86deb4e87b870d1) |                 -                 |                -                 |
+| Class  |  Date  |                    Topic                    |                                        📝 Summary Notes                                        |          📚 Assignments           |          ✍️ Blog Posts           |
+| :----: | :----: | :-----------------------------------------: | :--------------------------------------------------------------------------------------------: | :-------------------------------: | :------------------------------: |
+| **00** | 23 Feb |          Application Layer Scaling          |  [View](https://www.notion.so/sameerbhagtani/Class-1-23-Feb-3188385da6f88006bf53ce07be07d137)  |                 -                 | [View](./blog-posts/class-00.md) |
+| **01** | 25 Feb |             Data Layer Scaling              |  [View](https://www.notion.so/sameerbhagtani/Class-2-25-Feb-3188385da6f880bdb640e84d642734c6)  |                 -                 |                -                 |
+| **02** | 02 Mar |    Monolith & Microservices Architecture    |  [View](https://www.notion.so/sameerbhagtani/Class-3-02-Mar-3188385da6f880d19ddfd2671845d655)  |                 -                 |                -                 |
+| **03** | 09 Mar |             Async. Architecture             | [View](https://www.notion.so/sameerbhagtani/Class-4-9th-Mar-3268385da6f880a499e5d4cd76cd8252)  | [View](./assignments/class-04.md) |                -                 |
+| **04** | 11 Mar |        Async. Architecture Continued        | [View](https://www.notion.so/sameerbhagtani/Class-5-11th-Mar-3268385da6f880849fe8c98fa6573783) |                 -                 | [View](./blog-posts/class-04.md) |
+| **05** | 16 Mar |                    CQRS                     | [View](https://www.notion.so/sameerbhagtani/Class-6-16th-Mar-3268385da6f880b6870bf02c753deb0d) |                 -                 |                -                 |
+| **06** | 18 Mar | Caching, Consistent Hashing & Intro. to AWS | [View](https://www.notion.so/sameerbhagtani/Class-7-18th-Mar-3268385da6f8804cb86deb4e87b870d1) |                 -                 |                -                 |
 
 ---
 
