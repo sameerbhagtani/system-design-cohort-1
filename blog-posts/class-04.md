@@ -1,6 +1,9 @@
 # ✍️ Class 04: Blog Posts
 
-_Work in Progress..._
+## 0. Kafka Explained Like You’re 5
+
+![Cover Image](./assets/2.png)
+👉 **[Read on Hashnode](https://blog.sameerbhagtani.dev/kafka-explained-like-youre-5)**
 
 ---
 

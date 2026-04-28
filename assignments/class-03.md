@@ -1,4 +1,4 @@
-# 📚 Class 04: Assignments
+# 📚 Class 03: Assignments
 
 ## 0. LeetCode System Design Video
 
