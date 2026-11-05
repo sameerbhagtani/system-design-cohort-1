@@ -2,7 +2,7 @@
 
 ### _The Ultimate Learning Archive & Proof of Work_
 
-This repository is the central "Source of Truth" for my journey through the ChaiCode System Design Cohort 1. Led by [Hitesh Choudhary](https://chaicode.com) and [Piyush Garg](https://piyushgarg.dev), this archive documents every architectural blueprint, every trade-off analyzed, and every scalable system conceptualized.
+This repository is the central "Source of Truth" for my journey through the [ChaiCode](https://chaicode.com) System Design Cohort 1. Led by [Hitesh Choudhary](https://hiteshchoudhary.com) and [Piyush Garg](https://piyushgarg.dev), this archive documents every architectural blueprint, every trade-off analyzed, and every scalable system conceptualized.
 
 ---
 
