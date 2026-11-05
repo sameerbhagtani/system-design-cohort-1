@@ -3,7 +3,7 @@
 ## 0. Kafka Explained Like You’re 5
 
 ![Cover Image](./assets/2.png)
-👉 **[Read on Hashnode](https://blog.sameerbhagtani.dev/kafka-explained-like-youre-5)**
+👉 **[Read Now](https://blog.sameerbhagtani.dev/kafka-explained-like-youre-5)**
 
 ---
 
