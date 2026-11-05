@@ -2,7 +2,6 @@
 
 ## 0. Kafka Explained Like You’re 5
 
-![Cover Image](./assets/2.png)
 👉 **[Read Now](https://blog.sameerbhagtani.dev/kafka-explained-like-youre-5)**
 
 ---
