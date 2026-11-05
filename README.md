@@ -28,13 +28,4 @@ This repository is the central "Source of Truth" for my journey through the Chai
 
 ---
 
-## 📂 How this Archive is Structured
-
-This repository acts as a central index for my work. To keep things modular and easy to navigate:
-
-- **Notes Archive:** All session summaries and technical diagrams are hosted on **Notion**. Quick-access links are provided in the table above for each class.
-- **Blog Archive:** The blog Markdown files provide a cover image and a direct link to the full article on **Hashnode**.
-
----
-
 _Build. Ship. Sip._ ☕
